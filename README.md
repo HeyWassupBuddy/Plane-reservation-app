@@ -1,2 +1,4 @@
 # Plane-reservation-app
-Simple comsole plane reservation app
+Simple console plane reservation app
+In progress
+
