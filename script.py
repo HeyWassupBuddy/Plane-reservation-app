@@ -71,7 +71,7 @@ def error_msg():
     print('Error. Try again!')
 def get_actual_reservations():
     for res in reservations:
-        print('-',res, resNewFly(start_airport), 'to' resNewFly(destination_airport))
+        print('-',res)
 
 while True:
     airflyReservation()
